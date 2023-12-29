@@ -1,19 +1,19 @@
-# Project list
-
-- JavaScript Game Dev framework | November 2023 - Current
+- **JavaScript Game Dev framework - November 2023 - Current**
     - Building a game and with plans to abstract certain features such as websockets messages, sprites/spritemap usage and serverside state
     - https://github.com/88potatoes/gungame
-- Phonesocket NPM Package | December 2023
+- **Phonesocket NPM Package - December 2023**
     - Package to differentiate websocket connections between phone and desktop and provide utility functions for event handling.
     - Can be used to create apps where phone is controller to desktop game.
-- Website for friend’s company | November 2023 - Current
+    - Implements disconnection handling
+    - [NPM Link](https://www.npmjs.com/package/phonesocket)
+- **Website for friend’s company - November 2023 - Current**
     - Used Bootstrap for UI, Astro for layouts and components
-    - [https://github.com/88potatoes/jabezwebsite](https://github.com/88potatoes/jabezwebsite/tree/joseph)
-- Personal landing page | December 2023
+    - [https://github.com/88potatoes/jabezwebsite](https://github.com/88potatoes/jabezwebsite/tree/main)
+- **Personal landing page | December 2023**
     - HTML, CSS and JS
     - Backend with Nodemailer for email
-- Customizable Guess Who
-- Food API
+- **Customizable Guess Who**
+- **Lazy Meals API**
 
 - **Blog website - October 2023**
     - [ericlang.online](http://ericlang.online)
@@ -47,5 +47,5 @@
     - Resize and save images.
     - Used ElectronJS, HTML, CSS, JS
     - https://github.com/88potatoes/img_resizer
-- Platformer in Java - 2018
+- **Platformer in Java - 2018**
     - Developed and designed platformer for a school project
