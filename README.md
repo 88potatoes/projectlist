@@ -9,17 +9,21 @@
 - **Website for friend’s company - November 2023 - Current**
     - Used Bootstrap for UI, Astro for layouts and components
     - [https://github.com/88potatoes/jabezwebsite](https://github.com/88potatoes/jabezwebsite/tree/main)
-- **Personal landing page | December 2023**
+- **Personal landing page - December 2023**
+    - [Link](https://ericlang.online)
     - HTML, CSS and JS
-    - Backend with Nodemailer for email
-- **Customizable Guess Who**
-- **Lazy Meals API**
-
+    - Backend with Postmark
+    - Hosted on virtual private server with nginx
+    - Email backend managed with Postmark and pm2
 - **Blog website - October 2023**
-    - [ericlang.online](http://ericlang.online)
+    - [Blog link](https://blog.ericlang.online)
     - django - python, html, nginx, gunicorn, scss, postgresql and sqlite3
     - Website for my blog
     - code at https://github.com/88potatoes/webbersite
+- **Customizable Guess Who**
+- **Lazy Meals API**
+
+
 - **Mini-Museum web app - April 2023**
     - https://88potatoes.github.io/gallery_site/
     - Used HTML, CSS, JS and Art Institute of Chicago API
